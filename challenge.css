@@ -1,7 +1,5 @@
-:root {
-    /* change the values below to your colors from your palette */
-    --background-color: #b44693   ;
-  }
+
 body {
+    background-color: #b44693   ;
     text-align: center;
   }
